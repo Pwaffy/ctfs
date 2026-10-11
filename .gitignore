@@ -1,0 +1,5 @@
+proxies.txt
+.env
+.venv/
+__pycache__/
+*.pyc
